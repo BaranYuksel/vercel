@@ -1,5 +1,11 @@
 # @vercel/redwood
 
+## 2.0.4
+
+### Patch Changes
+
+- Revert "[next][node][redwood][remix] Update @vercel/nft (#10540)" ([#10633](https://github.com/vercel/vercel/pull/10633))
+
 ## 2.0.3
 
 ### Patch Changes
